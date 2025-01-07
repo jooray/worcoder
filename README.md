@@ -5,6 +5,8 @@ and back, with an RS1024 checksum appended to detect errors.
 
 JavaScript version: [worcoder-js](https://github.com/jooray/worcoder-js)
 Progressive Web App: [deployed](https://cypherpunk.today/theworcoder/index.html), source:[theworcoder-pwa](https://github.com/jooray/theworcoder-pwa)
+Desktop app: [theworcoder-desktop](https://github.com/jooray/theworcoder-desktop)
+
 
 ## Overview
 
