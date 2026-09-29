@@ -3,6 +3,20 @@
 A simple library for converting an arbitrary string into a sequence of mnemonic words
 and back, with an RS1024 checksum appended to detect errors.
 
+<!-- jooray-links:start -->
+### More from me
+
+**Related projects**
+
+- [worcoder-js](https://github.com/jooray/worcoder-js): JavaScript library to encode strings as mnemonic words
+- [theworcoder-desktop](https://github.com/jooray/theworcoder-desktop): desktop app to turn a string into a mnemonic phrase and back
+- [theworcoder-pwa](https://github.com/jooray/theworcoder-pwa): PWA for worcoder
+
+**Full project showcase:** [all my projects](https://juraj.bednar.io/showcase/).
+
+I write about building things on [my blog](https://juraj.bednar.io/en/blog-en/). I also wrote a cypherpunk novel, [Tamers of Entropy](https://tamersofentropy.net/), and there is a [trailer](https://tamersofentropy.net/#trailer).
+<!-- jooray-links:end -->
+
 JavaScript version: [worcoder-js](https://github.com/jooray/worcoder-js)
 Progressive Web App: [deployed](https://cypherpunk.today/theworcoder/index.html), source:[theworcoder-pwa](https://github.com/jooray/theworcoder-pwa)
 Desktop app: [theworcoder-desktop](https://github.com/jooray/theworcoder-desktop)
